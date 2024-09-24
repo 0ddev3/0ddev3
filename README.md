@@ -5,7 +5,7 @@ Programming Languages: Java, Basic Python
 Web Technologies: HTML, CSS
 
 # Currently Learning/ Building on
-- Data Structures via java
+- Data Structures via Java
 - Front-end Development
 
   # Projects
